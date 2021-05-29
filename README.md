@@ -7,10 +7,14 @@ https://github.com/piyushdua50/expree-server
 ### About This -
 
 - This app consists of -
-  - A Diamond pattern in JavaScript.
-  - A Equilateral triangle in JavaScript.
+  - Learn basics of JavaScript.
+  - Learn basics of TypeScript.
   - A Email validation file in JavaScript.
-  - A Permission Authorisation file in JavaScript.
+  - A Permission Authorization file in JavaScript.
+  - API routing.
+  - Middlewares.
+  - Authentication.
+  - Controllers.
 
 ### How to run -
 
