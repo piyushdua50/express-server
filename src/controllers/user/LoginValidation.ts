@@ -3,7 +3,7 @@ const LoginValidation = {
       Emailid: {
         errorMessage: 'EmailId is required',
         in: ['body'],
-        regex: /^\w+([\.-]?\w+)*@successive.tech/,
+        regex: /^\w+([\.-]?\w+)*@gmail.com/,
         required: true,
         string: true,
       },
