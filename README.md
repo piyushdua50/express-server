@@ -1,8 +1,8 @@
-# <p align="center">Training App</p>
+# <p align="center">Learning App</p>
 
 ### Install link -
 
-https://github.com/PiyushDua/express-server
+https://github.com/piyushdua50/expree-server
 
 ### About This -
 
@@ -15,11 +15,11 @@ https://github.com/PiyushDua/express-server
 ### How to run -
 
 ```bash
-#Clone Repo.
-    git clone https://github.com/PiyushDua/express-server.git
+# Clone Repo.
+    git clone https://github.com/piyushdua50/express-server.git
     cd express-server
-#Run permission file.
+# Run permission file.
     node extra/utils/permissions.js
-#Run validation file.
+# Run validation file.
     node extra/utils/validation.js
 ```
